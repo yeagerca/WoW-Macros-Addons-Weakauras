@@ -1,0 +1,1 @@
+/run if not qtrade or qtrade>5 then qtrade=1 else qtrade=qtrade+1 end local sb,b,s=GetMouseFocus() b,s=sb:GetParent():GetID(), sb:GetID() if not TradeFrame:IsShown() then InitiateTrade("target") else PickupContainerItem(b,s) ClickTradeButton(qtrade) end
