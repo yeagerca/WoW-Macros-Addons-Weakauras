@@ -1,3 +1,0 @@
-/click TradeSkillCreateButton
-/run GetMouseFocus():Click()
-/click StaticPopup1Button1
