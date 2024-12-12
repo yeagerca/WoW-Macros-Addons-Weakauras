@@ -1,0 +1,9 @@
+2024-12-10 v3.2.20.2
+Added Seal of the Crusader and Sanctity Aura.
+Changed aura and blessing talent detection to match TBC talents.
+Included normal Light and Salvation in mousewheel cycling.
+- Gnomechewer, Warmane Onyxia
+
+v3.2.20.1
+Added back the Light and Salvation buffs for Onyxia realm
+- Phill, Warmane Onyxia
