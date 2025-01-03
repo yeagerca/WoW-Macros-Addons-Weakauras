@@ -1,0 +1,11 @@
+﻿## Interface: 40200
+## Author: Zappster
+## Title: CameraDistanceMaxFactor
+## Notes: sets the zoomable camera distance value to it's maximum
+## Version: 1.0
+## X-Curse-Packaged-Version: v1.1 toc 4.2 release
+## X-Curse-Project-Name: CameraDistanceMaxFactor
+## X-Curse-Project-ID: cameradistancemaxfactor
+## X-Curse-Repository-ID: wow/cameradistancemaxfactor/mainline
+
+CameraDistanceMaxFactor.lua
