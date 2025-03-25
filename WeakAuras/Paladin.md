@@ -10,10 +10,12 @@ Large icon displays:
 - Cooldown for Judgement is 
 - Display is desaturated when no Seal buff is active.
 - Display is colored red when target is more than 10 yards away (out of Judgement range).
+
 Small icon displays:
 - Icon for each of the four judged Seal debuffs on your target.
 - Name of the player who applied the debuff.
 - Glow effect on debuffs you applied.
+
 Righteous Fury reminder icon:
 - Aura only loads if Improved Righteous Fury is talented and Righteous Fury is a known spell.
 - Icon colored green for duration greater than 20 minutes.
@@ -28,6 +30,5 @@ Designed for 3.3.5a client playing TBC patch content.
 - Uses WeakAura's built in swing timer that accounts for spell casts and parry haste.
 - Displays a tick mark at 0.4 seconds remaining (Seal of Command twisting window) and 1.9 seconds remaining (0.4 + 1.5 second GCD).
 - If the player is a Paladin it also changes the color of the bar according to those thresholds.
-On Warmane Onyxia server TBC, seal twisting is only possible when changing from Seal of Command to another Seal. The Seal of Command buff is invisible when switching to another seal, but its effect is still active for 0.4 seconds.
-https://www.warmane.com/bugtracker/report/123564
-https://www.warmane.com/bugtracker/report/126119
+
+On Warmane Onyxia server TBC, seal twisting is only possible when changing from Seal of Command to another Seal. The Seal of Command buff is invisible when switching to another seal, but its effect is still active for 0.4 seconds. https://www.warmane.com/bugtracker/report/123564 https://www.warmane.com/bugtracker/report/126119
