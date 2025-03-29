@@ -17,3 +17,9 @@ Valid range of 1 (fewer particles) to 50 (more particles).
 ```
 Sets the maximum distance that you are allowed scroll your camera away from your character. Exceeds what is possible in the standard interface settings.
 Valid range of 1 (nearer) to 5 (farther).
+
+## Force load a Load On Demand addon
+```lua
+/script LoadAddOn("DBM-Party-WotLK")
+```
+Loads an addon. In this case it loads the WOTLK Dungeons module of DBM. Addon must have a LoadOnDemand flag in its toc file.
