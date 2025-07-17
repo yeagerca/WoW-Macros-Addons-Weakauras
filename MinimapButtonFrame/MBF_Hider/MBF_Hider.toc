@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: MBF_Hider
+## Notes: Calls functions of MinimapButtonFrame (MBF) via chatbox to hide its UI element on login.
+## Author: Gnomechewer
+## Code Sources: https://www.wowinterface.com/forums/showthread.php?t=6467 https://www.wowinterface.com/forums/showthread.php?t=34526
+
+MBF_Hider.lua
