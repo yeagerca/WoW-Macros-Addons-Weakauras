@@ -1,0 +1,1 @@
+I noticed that MinimapButtonFrame would not hide itself on startup despite the interface settings, so I created this simple addon to circumvent that bug. After loading in, it uses the chatbox to execute MBF's addon commands to forcefully show then hide the button frame.
